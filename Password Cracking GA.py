@@ -1,3 +1,8 @@
+import streamlit as st
+
+st.title("Password Cracker")
+st.write("Upload a file or enter a hash to begin.")
+
 import random
 
 # Constants
